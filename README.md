@@ -11,33 +11,6 @@ Bu proje, Scrum metodolojisi kullanılarak geliştirilecek bir İngilizce kelime
 
 ## 📱 Özellikler
 
-### 1. Kullanıcı Yönetimi (5 puan)
-- Kullanıcı kayıt ve giriş sistemi
-- Şifremi unuttum ve giriş bölümü olmalı
-
-### 2. Kelime Ekleme Modülü (5 puan)
-- Kelimeler text ve resim içerebilecek
-- İngilizce kelime, Türkçe karşılığı, İngilizce kelimenin birden çok etimle içerisinde geçmesi
-- Kelime ile ilgili bir resim ve ops olarak sesli okunuşu
-
-### 3. Sınav Modülü (10 puan)
-- Temel 6 Sefer Quiz Sorularının Belirlenme Algoritması
-- Spaced repetition algoritması kullanılarak kelime tekrarı
-
-### 4. Kullanıcı Ayarları (5 puan)
-- Kullanıcı kendi ekranında ayarlar kısmı bulunacak
-- Öğrenci isterse yeni kelime çıkma sayısını yani 10 sayısını değiştirebilecek
-
-### 5. Analiz Raporu (5 puan)
-- Kullanıcı gözümlediği kelimeler üzerinden bir analiz raporu alabilsin
-- Öğrencinin hangi konular ile ilgili olarak ne kadar başarılı olduğunun gösterilsin
-
-### 6. Wordle Oyunu (15 puan)
-- Öğrenilen kelimelerden oluşmalıdır
-- 5 harfli kelime bulma oyunu
-
-### 7. Word Chain Oyunu (5 puan)
-- LLM hikaye ve görsel oluşturmalı ve bu görsel app içerisinde kaydedilmeli
 
 ## 🛠️ Teknoloji Stack
 
